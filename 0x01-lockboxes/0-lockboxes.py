@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 """ Module that canUnlockAll function"""
 
-i
+
 def canUnlockAll(boxes):
     """
         You have n number of locked boxes in front of you. Each box is
